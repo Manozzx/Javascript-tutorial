@@ -14,5 +14,5 @@ class student{
 }
 student.add(20, 30);
 student.sub(50, 20);
-student.mul(2, 30);
+student.mul(2, 3);
 student.div(20, 3);
